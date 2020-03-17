@@ -1,0 +1,13 @@
+{
+  "name": "GoStack8-starter-JSES6-Aplicacao-ES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/plealfel/GoStack8-starter-JSES6-Aplicacao-ES6.git",
+  "author": "pefelizardo <pefelizardo@prestadores.uhgbrasil.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.8.7",
+    "axios": "^0.19.2"
+  }
+}
